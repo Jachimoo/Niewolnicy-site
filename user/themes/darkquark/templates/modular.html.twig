@@ -1,0 +1,96 @@
+{% extends 'partials/base.html.twig' %}
+
+{% set show_onpage_menu = header.onpage_menu == true or header.onpage_menu is null %}
+
+{% block javascripts %}
+    {% if show_onpage_menu %}
+        {% do assets.add('theme://js/singlepagenav.min.js') %}
+    {% endif %}
+    {{ parent() }}
+{% endblock %}
+
+{#{% block bottom %}
+    {{ parent() }}
+    {% if show_onpage_menu %}
+        <script>
+        // singlePageNav initialization & configuration
+       // $('ul.navigation').singlePageNav({
+        //    offset: $('#header').outerHeight(),
+       //     filter: ':not(.external)',
+       //     updateHash: true,
+       //     currentClass: 'active'
+       // });
+        //</script>
+    {% endif %} 
+{% endblock %} 
+
+{% block header_navigation %}
+    {% if show_onpage_menu %}
+        <ul class="navigation">
+        {% for module in page.collection() if module.header.visible is not same as(false) %}
+            {% set current_module = (module.active or module.activeChild) ? 'active' : '' %}
+            <li><a class="{{ current_module }}" href="#{{ module.menu|hyphenize }}">{{ module.menu }}</a></li>
+        {% endfor %}
+        {% for mitem in site.menu %}
+            <li>
+                <a {% if mitem.class %}class="{{ mitem.class }}"{% endif %} href="{{ mitem.url }}">
+                    {% if mitem.icon %}<i class="fa fa-{{ mitem.icon }}"></i>{% endif %}
+                    {{ mitem.text }}
+                </a>
+            </li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        {{  parent() }}
+    {% endif %}
+{% endblock %}#}
+{% block header %}
+        <section id="header" class="section">
+            <section class="container {{ grid_size }}">
+                <nav class="navbar">
+                    <section class="navbar-section logo">
+                        {% include 'partials/logo.html.twig' %}
+                    </section>
+                    <section class="navbar-section desktop-menu">
+
+                        <nav class="dropmenu animated">
+                        {% block lang %}
+                            {% include 'partials/langswitcher.html.twig' %}
+                        {% endblock %}
+                        {% block header_navigation %}
+                            {% include 'partials/navigation.html.twig' %}
+                        {% endblock %}
+                        </nav>
+
+                        {% if config.plugins.login.enabled and grav.user.username %}
+                            <span class="login-status-wrapper"><i class="fa fa-user"></i> {% include 'partials/login-status.html.twig' %}</span>
+                        {% endif %}
+
+                    </section>
+                </nav>
+            </section>
+        </section>
+        <div class="mobile-menu">
+            <div class="button_container" id="toggle">
+                <span class="top"></span>
+                <span class="middle"></span>
+                <span class="bottom"></span>
+            </div>
+        </div>
+    {% endblock %}
+
+
+{% block hero %}
+    {% for module in page.collection() if module.template == 'modular/hero' %}
+        <div id="{{ module.menu|hyphenize }}"></div>
+        {{ module.content|raw }}
+    {% endfor %}
+{% endblock %}
+
+{% block body %}
+    {% for module in page.collection() if module.template != 'modular/hero' %}
+        <div id="{{ module.menu|hyphenize }} p-centered">
+        {{ module.content|raw }}
+        </div>
+    {% endfor %}
+{% endblock %}

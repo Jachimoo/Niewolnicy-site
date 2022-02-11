@@ -1,0 +1,7 @@
+enabled: false
+default_lang: null
+disable_css: null
+inject_template: null
+grecaptcha_sitekey: null
+grecaptcha_secret: null
+grecaptcha_callback: false

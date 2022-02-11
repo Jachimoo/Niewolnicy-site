@@ -1,0 +1,29 @@
+1645101712
+a:2:{s:7:"content";s:1094:"<section class="section modular-text  bg-gray">
+    <section class="container grid-xl">
+        <div class="columns right" data-aos="fade-up" data-aos-once="true" data-aos-mirror="true" data-aos-duration="1000" data-aos-delay="50">
+                        <div class="column col-6 col-md-12">
+                <div class="text-kuba">
+    <h2>Jakub Kiebała</h2>
+ Hej jestem Kuba, do zespołu dołączyłem jakieś 3 lata temu, od początku,  jako gitarzysta solowy. Od zawsze chciałem grać na gitarze, więc nic dziwnego, że mój staż z instrument wynosi dobre 8 lat.
+
+<br> <br>
+ Zawsze chciałem też grać w zespole, co , jak widać , w końcu mi się udało i zmierza w dobrą stronę.
+</div>
+<style>
+    .text-kuba{
+        font-size: 20px;
+        text-align:right;
+        margin-top:1em;
+
+}
+</style>
+            </div>
+            <div class="column col-6 col-md-12 foto">
+                <img alt="" src="/user/pages/02.o-nas/_5text-kuba/241056502_802009300470666_781745388165601844_n (1).jpg" />
+            </div>
+                         
+        </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

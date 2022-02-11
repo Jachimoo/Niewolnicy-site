@@ -1,0 +1,4 @@
+1643889575
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:7:"kontakt";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:7:"Kontakt";s:7:"content";a:1:{s:5:"items";s:13:"@self.modular";}}s:11:"frontmatter";s:50:"title: Kontakt
+content:
+    items: '@self.modular'";s:8:"markdown";s:0:"";}s:7:"storage";a:9:{s:3:"key";s:7:"kontakt";s:11:"storage_key";s:19:"05.kontakt|modular.";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1643805776;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"modular";i:1643805737;}}s:8:"children";a:1:{s:10:"_mainhero2";b:0;}s:8:"checksum";s:32:"a4440b3ed4084ce8044e3ebd60ca371a";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

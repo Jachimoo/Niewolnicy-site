@@ -1,0 +1,18 @@
+1643881416
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:20:"o-nas/_6text-gabriel";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:12:"Text-Gabriel";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:4:"left";s:11:"media_order";s:17:"1643830332328.jpg";}s:11:"frontmatter";s:90:"title: Text-Gabriel
+body_classes: modular
+image_align: left
+media_order: 1643830332328.jpg";s:8:"markdown";s:771:"<div class="text-Gabriel">
+<h2>Gabriel Schmidt-Jensen</h2>
+Cześć z tej strony Gabriel! Jestem najnowszym członkiem oraz basistą zespołu. Moja przygoda z muzyką zaczęła się w wieku 15 lat kiedy to dostałem swoją pierwszą gitarę jako prezent na gwiazdkę i co mówić więcej złapałem bakcyla. W niewolnikach gram od połowy 2021 roku. Uznałem że będzie to kolejny duży krok w mojej nauce gry na instrumencie, który może w przyszłości otworzy mi drzwi na inne projekty artystyczne. 
+<br><br>
+Pozą grą na gitarze interesuję się również technologią, której jestem wielbicielem, oraz produkcją dźwięku z którą wiąże swoją przyszłość.
+
+</div>
+<style>
+    .text-Gabriel{
+        font-size: 20px;
+        margin-top: 3em;
+    
+}
+</style>";}s:7:"storage";a:8:{s:3:"key";s:20:"o-nas/_6text-gabriel";s:11:"storage_key";s:31:"02.o-nas/_6text-gabriel|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643831403;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643831403;}}s:8:"checksum";s:32:"73c005dfc8187742057e0ae22461b5f9";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

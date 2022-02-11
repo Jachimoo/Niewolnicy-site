@@ -1,0 +1,19 @@
+1644079276
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:17:"o-nas/_5text-kuba";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:9:"text-kuba";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:5:"right";s:11:"media_order";s:20:"pobrany plik (1).jpg";}s:11:"frontmatter";s:93:"title: text-kuba
+body_classes: modular
+image_align: right
+media_order: 'pobrany plik (1).jpg'";s:8:"markdown";s:504:"<div class="text-kuba">
+    <h2>Jakub Kiebała</h2>
+ Hej jestem Kuba, do zespołu dołączyłem jakieś 3 lata temu, od początku,  jako gitarzysta solowy. Od zawsze chciałem grać na gitarze, więc nic dziwnego, że mój staż z instrument wynosi dobre 8 lat.
+
+<br> <br>
+ Zawsze chciałem też grać w zespole, co , jak widać , w końcu mi się udało i zmierza w dobrą stronę.
+</div>
+<style>
+    .text-kuba{
+        font-size: 20px;
+        text-align:right;
+        margin-top:1em;
+    
+}
+</style>";}s:7:"storage";a:8:{s:3:"key";s:17:"o-nas/_5text-kuba";s:11:"storage_key";s:28:"02.o-nas/_5text-kuba|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643828058;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643828058;}}s:8:"checksum";s:32:"95cca32f5978bb6097e9ad94c6ee4212";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

@@ -1,0 +1,25 @@
+1643832350
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:26:"galeria-zdjec/zapach-swiat";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:14:"Zapach Świąt";s:4:"date";s:16:"24-12-2020 19:00";s:8:"metadata";a:1:{s:6:"Muzyka";s:18:"Niewolnicy Systemu";}}s:11:"frontmatter";s:91:"title: 'Zapach Świąt'
+date: '24-12-2020 19:00'
+metadata:
+    Muzyka: 'Niewolnicy Systemu'";s:8:"markdown";s:702:"Wesołych i wolnych (nie NIEwolniczych 😉 ) Świąt i całego życia w Szczęściu, <br> 
+Miłości i Błogosławieństwie życzymy my NIEwolnicy Systemu w składzie
+*  Ewa Agaś-Lange 
+*  Kacper Opaliński
+*  Kacper Błoński
+*  Jakub Kiebała ,
+*  Bartek Kiebała 
+*  Jerzy Sowa Jr.  🙂<br>
+Mamy dla Was najnowsze nagranie!
+Posłuchacie naszej kolędy i wspólnie trwajmy w pokoju 🙂
+
+<iframe src="https://www.youtube.com/embed/qmupwGX5keQ" title="Zapach Świąt" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="p-centered ytemb"></iframe>
+
+<style>
+.ytemb{
+    width: 100%;
+    height: 75vmin;
+}
+</style>
+
+";}s:7:"storage";a:8:{s:3:"key";s:26:"galeria-zdjec/zapach-swiat";s:11:"storage_key";s:38:"03.galeria-zdjec/04.zapach-swiat|item.";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1643805773;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1643805773;}}s:8:"checksum";s:32:"e6996b44dcfae935b39d3748cecdf83f";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

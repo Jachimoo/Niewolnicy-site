@@ -1,0 +1,2 @@
+1644079262
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:11:"dyskografia";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:0:{}s:11:"frontmatter";s:0:"";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:11:"dyskografia";s:11:"storage_key";s:14:"04.dyskografia";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1643805776;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:7:"modular";i:1643805736;}}s:8:"children";a:3:{s:5:"_dysk";b:0;s:11:"_sam-na-sam";b:0;s:7:"_sekret";b:0;}s:8:"checksum";s:32:"f12139865accd99e684c6074afcded9c";}}

@@ -1,0 +1,17 @@
+1644436889
+a:2:{s:7:"content";s:521:"
+<section id="" class="section modular-hero hero hero-small overlay-dark-gradient text-light " style="background-image: url('/user/pages/04.dyskografia/_dysk/JSJJ6371-1-min_11zon (3)_11zon.jpg');">
+    <div class="image-overlay"></div>
+    <section class="container grid-xl" style="text-align: center">
+        <div class="galleryhero">Dyskografia</div>
+<style>
+.galleryhero{
+    text-shadow: 0 0 15px #000, 0 0 15px #000;
+    color: #fff;
+    font-size: 72px;
+    font-weight: 500;
+}
+ </style>
+    </section>
+</section>
+";s:12:"content_meta";N;}

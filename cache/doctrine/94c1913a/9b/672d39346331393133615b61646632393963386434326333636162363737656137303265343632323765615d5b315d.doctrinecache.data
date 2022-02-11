@@ -1,0 +1,25 @@
+1644485259
+a:2:{s:7:"content";s:1151:"<section class="section modular-text  bg-gray">
+    <section class="container grid-xl">
+        <div class="columns right" data-aos="fade-up" data-aos-once="true" data-aos-mirror="true" data-aos-duration="1000" data-aos-delay="50">
+                        <div class="column col-6 col-md-12">
+                <div class="mytext2">
+<div class="h1">NIEwolnicy Systemu</div>
+
+ Zespół inspirujący się polską muzyką rockową z lat '80 i '90. Założycielem i inicjatorem projektu jest Jerzy Sowa jr, muzyk, aranżer,  kompozytor, autor tekstów i pedagog. <br> <br>NIEwolnicy Systemu w pierwotnym założeniu (2016) mieli być młodzieżowym zespołem mającym na celu naukę gry zespołowej, jednak po kilku miesiącach przekształcił się w obecnie istniejący projekt twórczy.
+</div>
+<style>
+    .mytext2{
+        text-align: right;
+        font-size: 24px;
+    }
+</style>
+            </div>
+            <div class="column col-6 col-md-12 foto">
+                <img alt="" src="/user/pages/01.strona-glowna/_niewolnicy-systemu/cmyk_ns-czarny_kwadrat.png" />
+            </div>
+                         
+        </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

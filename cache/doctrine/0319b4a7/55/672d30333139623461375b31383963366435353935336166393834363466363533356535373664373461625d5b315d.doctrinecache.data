@@ -1,0 +1,40 @@
+1644754907
+a:2:{s:7:"content";s:1201:"<section class="section modular-text  bg-gray">
+    <section class="container grid-xl">
+        <div class="columns left" data-aos="fade-up" data-aos-once="true" data-aos-mirror="true" data-aos-duration="1000" data-aos-delay="50">
+                        <div class="column col-6 col-md-12">
+                <h2>Sam Na Sam - 2020</h2>
+<p>21 marca 2020 r. Wydaliśmy naszą pierwszą płytę w skład w której wchodzą następujące utwory:</p>
+<ol>
+<li>Czasem mam chęć..</li>
+<li>Dałeś mi tylko ciszę</li>
+<li>Ja miasto</li>
+<li>Moja pieśń</li>
+<li>Nie będę</li>
+<li>Nie dotykaj mnie</li>
+<li>Nowy świt</li>
+<li>Spokojnie</li>
+<li>Wiatr</li>
+<li>Szare samochody</li>
+<li>Jest</li>
+</ol>
+<style>
+    h2{
+        margin-top: 0;
+        padding-right: -2%
+    }
+    .foto img{
+        box-shadow: rgba(0, 0, 0, 0.452) 0px 15px 25px, rgba(0, 0, 0, 0.151) 0px 5px 10px;
+        border:  #35393D 1px solid;
+        border-radius: 5px;
+    }
+</style>
+            </div>
+            <div class="column col-6 col-md-12 foto">
+                <img alt="" src="/user/pages/04.dyskografia/_sam-na-sam/przód.png" />
+            </div>
+                         
+        </div>
+    </section>
+</section>
+";s:12:"content_meta";N;}

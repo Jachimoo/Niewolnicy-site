@@ -1,0 +1,27 @@
+1643832003
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"galeria-zdjec";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:8:{s:5:"title";s:15:"Galeria Zdjęć";s:7:"content";a:5:{s:5:"items";a:1:{i:0;s:14:"@self.children";}s:5:"limit";i:5;s:5:"order";a:2:{s:2:"by";s:4:"date";s:3:"dir";s:4:"desc";}s:10:"pagination";b:1;s:20:"url_taxonomy_filters";b:1;}s:12:"show_sidebar";b:0;s:16:"show_breadcrumbs";b:1;s:15:"show_pagination";b:1;s:11:"media_order";s:34:"JSJJ6371-1-min_11zon (3)_11zon.jpg";s:12:"hero_classes";s:43:"hero-small overlay-dark-gradient text-light";s:8:"blog_url";s:5:"/blog";}s:11:"frontmatter";s:373:"title: 'Galeria Zdjęć'
+content:
+    items:
+        - '@self.children'
+    limit: 5
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+show_sidebar: false
+show_breadcrumbs: true
+show_pagination: true
+media_order: 'JSJJ6371-1-min_11zon (3)_11zon.jpg'
+hero_classes: 'hero-small overlay-dark-gradient text-light'
+blog_url: /blog";s:8:"markdown";s:191:"<div class="galleryhero p-centered">
+GALERIA
+</div>
+<style>
+.galleryhero{
+    text-shadow: 0 0 15px #000, 0 0 15px #000;
+    color: #fff;
+    font-size: 72px;
+    font-weight: 500;
+}
+</style>";}s:7:"storage";a:9:{s:3:"key";s:13:"galeria-zdjec";s:11:"storage_key";s:22:"03.galeria-zdjec|blog.";s:8:"template";s:4:"blog";s:17:"storage_timestamp";i:1643812095;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"blog";i:1643812095;}}s:8:"children";a:5:{s:17:"01.hot16challange";b:0;s:18:"02.koncert-lokator";b:0;s:18:"03.koncert_variete";b:0;s:15:"04.zapach-swiat";b:0;s:21:"05.koncert-foodtracki";b:0;}s:8:"checksum";s:32:"54d0ea94fb620f75fd4215b5a7ae824a";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

@@ -1,0 +1,15 @@
+1643832318
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:12:"o-nas/_1main";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:4:"main";s:12:"body_classes";s:7:"modular";s:12:"hero_classes";s:42:"hero-tiny overlay-dark-gradient text-light";s:11:"media_order";s:34:"JSJJ6371-1-min_11zon (3)_11zon.jpg";}s:11:"frontmatter";s:142:"title: main
+body_classes: modular
+hero_classes: 'hero-tiny overlay-dark-gradient text-light'
+media_order: 'JSJJ6371-1-min_11zon (3)_11zon.jpg'";s:8:"markdown";s:193:"<div class="galleryhero p-centered">
+O NAS
+</div>
+<style>
+.galleryhero{
+    text-shadow: 0 0 15px #000, 0 0 15px #000;
+    color: #fff;
+    font-size: 72px;
+    font-weight: 500;
+}
+    </style>";}s:7:"storage";a:8:{s:3:"key";s:12:"o-nas/_1main";s:11:"storage_key";s:23:"02.o-nas/_1main|hero.pl";s:8:"template";s:4:"hero";s:17:"storage_timestamp";i:1643812043;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"hero";i:1643812043;}}s:8:"checksum";s:32:"daaf6a3bdc244af0cd1e372f63e8b72a";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

@@ -1,0 +1,15 @@
+1643832117
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:16:"o-nas/_1text-ewa";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:8:"text-ewa";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:5:"right";s:11:"media_order";s:50:"265230360_656040528726722_575650189533408799_n.jpg";}s:11:"frontmatter";s:120:"title: text-ewa
+body_classes: modular
+image_align: right
+media_order: 265230360_656040528726722_575650189533408799_n.jpg";s:8:"markdown";s:1055:"<div class="text-ewa">
+<h2>Ewa Agaś-Lange</h2>
+Hejka, z tej strony jedyny pierwiastek żeński zespołu! Muzyka jest dla mnie uniwersalnym językiem, w którym mogę powiedzieć o tym co mnie boli, zadziwia i sprawia, że się uśmiecham. Co za tym idzie, już dawno stała się nieodłącznym elementem mnie i mojego życia. Zaczynając od szkoły muzycznej, poprzez lekcje śpiewu i granie w kilku zespołach, kończąc na… no właśnie, oby tego końca nigdy nie było. Śpiewam, komponuję, piszę teksty. <br><br> Przez całą tą swoją kilkunastoletnią, muzyczną drogę, nadal szukam siebie. Próbuje swoich sił w różnych odsłonach, stylach muzycznych i szczerze muszę przyznać, że chyba nie po drodze mi z zamykaniem swojego artystycznego JA w konkretnych ramach. Chyba właśnie dlatego tak bardzo cenię sobie nasz zespół. Tworzymy to, co w duszach nam gra, a co do tego mogę Was zapewnić - gra bardzo dużo.
+</div>
+<style>
+    .text-ewa{
+        font-size: 20px;
+        text-align: right;
+        margin-top:2em;
+    }
+</style>";}s:7:"storage";a:8:{s:3:"key";s:16:"o-nas/_1text-ewa";s:11:"storage_key";s:27:"02.o-nas/_1text-ewa|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643827867;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643827867;}}s:8:"checksum";s:32:"1497e609fa841a46bfea207cb43ea0fb";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

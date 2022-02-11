@@ -1,0 +1,36 @@
+1644079291
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:29:"galeria-zdjec/koncert-lokator";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:15:"Koncert Lokator";s:4:"date";s:16:"29-06-2021 22:00";}s:11:"frontmatter";s:49:"title: 'Koncert Lokator'
+date: '29-06-2021 22:00'";s:8:"markdown";s:1374:"Energetyczny koncert "Niewolników Systemu" na rozpoczęcie wakacji 2021! Był rock,, ballady, emocje, bisy, popisy solowe i zespołowe. <br>
+NIEwolnicy Systemu dali po prostu takiego czadu, że musieli bisować, a  i tak widownia nie chciała opuścić sali po koncercie. <br>
+Był materiał z pierwszej płyty i nowe utwory.  <br>
+Był kawał dobrej muzyki i zabawy.  <br>
+Mówiąc wprost, rozwaliliście SYSTEM 😉 <br>
+
+<!-- Flickity HTML init -->
+<div class="gallery js-flickity p-centered" data-flickity-options='{ "wrapAround": true, "adaptiveHeight": true }'>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (1).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (2).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (3).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (4).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (5).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (6).jpg"></div>
+  <div class="gallery-cell"><img src="/images/myphoto/lokator (7).jpg"></div>
+</div>
+<style>
+  .gallery{
+    width: 80%;
+    height: auto;
+  }
+  /* position dots up a bit */
+.flickity-page-dots {
+  bottom: -22px;
+}
+/* dots are lines */
+.flickity-page-dots .dot {
+  height: 4px;
+  width: 40px;
+  margin: 0;
+  border-radius: 0;
+}
+
+</style>";}s:7:"storage";a:8:{s:3:"key";s:29:"galeria-zdjec/koncert-lokator";s:11:"storage_key";s:43:"03.galeria-zdjec/02.koncert-lokator|item.pl";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1643805772;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"item";i:1643805772;}}s:8:"checksum";s:32:"5bb5eed5abbee563b7250cedbd97e369";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

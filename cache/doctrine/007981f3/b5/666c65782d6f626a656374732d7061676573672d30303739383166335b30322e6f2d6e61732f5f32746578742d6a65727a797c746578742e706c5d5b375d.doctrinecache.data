@@ -1,0 +1,27 @@
+1643889575
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:18:"o-nas/_2text-jerzy";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:10:"Text-Jerzy";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:4:"left";s:11:"media_order";s:13:"IMG_2473.jpeg";}s:11:"frontmatter";s:84:"title: Text-Jerzy
+body_classes: modular
+image_align: left
+media_order: IMG_2473.jpeg";s:8:"markdown";s:858:"<div class="text-jerzy">
+<a href="http://jerzysowajr.weebly.com"><h2>Jerzy Sowa jr</h2></a>
+Muzyk, nauczyciel, kompozytor i dyrygent, natomiast z zamiłowania fotograf. <br>
+</div>
+> "Dla mnie zdjęcie jest zapisem chwili, uchwyceniem ulotności myśli i zatrzymaniem w czasie wspomnień, muzyka natomiast językiem duszy. Fotografuję to, co w ciszy brzmi pięknie, i to co warte jest zapamiętania." 
+<div class="text-jerzy">
+Jest pomysłodawcą i założycielem zespołu (2017), kompozytorem, autorem tekstów, aranżerem, gitarzystą i wokalistą.
+</div>
+<style>
+    .text-jerzy{
+        font-size: 20px;
+        margin-top: 2em;
+}
+    .foto img{
+        box-shadow: rgba(0, 0, 0, 0.452) 0px 15px 25px, rgba(0, 0, 0, 0.151) 0px 5px 10px;
+        border:  #35393D 1px solid;
+        border-radius: 5px;
+    }
+    h2{
+        margin-top: 0;
+    }
+</style>
+";}s:7:"storage";a:8:{s:3:"key";s:18:"o-nas/_2text-jerzy";s:11:"storage_key";s:29:"02.o-nas/_2text-jerzy|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643888956;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643888956;}}s:8:"checksum";s:32:"29d0fe08e9f21965a118d660c77695e2";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

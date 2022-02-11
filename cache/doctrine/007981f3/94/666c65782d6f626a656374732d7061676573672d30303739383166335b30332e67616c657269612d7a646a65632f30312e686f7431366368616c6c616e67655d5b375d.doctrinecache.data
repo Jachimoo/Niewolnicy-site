@@ -1,0 +1,18 @@
+1643889556
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:28:"galeria-zdjec/hot16challange";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:14:"Hot16Challange";s:4:"date";s:16:"29-05-2020 18:53";s:8:"metadata";a:5:{s:6:"Muzyka";s:4:"Punk";s:8:"Zespół";s:13:"Zduńska Wola";s:14:"Hot16Challange";s:18:"NIEwolnicy systemu";s:20:"Muzycy Zduńska Wola";s:18:"NIEwolnicy systemu";s:16:"Zespół Reaggae";s:18:"NIEwolnicy systemu";}}s:11:"frontmatter";s:238:"title: Hot16Challange
+date: '29-05-2020 18:53'
+metadata:
+    Muzyka: Punk
+    Zespół: 'Zduńska Wola'
+    Hot16Challange: 'NIEwolnicy systemu'
+    'Muzycy Zduńska Wola': 'NIEwolnicy systemu'
+    'Zespół Reaggae': 'NIEwolnicy systemu'";s:8:"markdown";s:852:"Dziękujemy za nominację zespołowi After Hours - Sieradz
+i przyjmujemy wyzwanie #hot16challenge2 
+Hot16Challange2 to wyzwanie polegające na nagraniu materiału wideo w którym raper wykonuje tzw. „szesnastkę” (zwrotkę składająca się z 16 wersów) pod dowolny beat, a następnie nominuje innych wykonawców do zrobienia tego samego.
+Towarzyszy temu charytatywna zbiórka na rzecz walki z korona wirusem.
+Link do zbiórki:
+<a href='https://www.siepomaga.pl/en/hot16challenge' title='Siepomaga.pl - zbiórki charytatywne'>
+
+<div class="video-responsive p-centered">
+	<iframe width="80%" height="auto" src="https://www.youtube.com/embed/gBPhQlS8XDA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;  gyroscope; picture-in-picture" allowfullscreen class="p-centered"></iframe>
+</div>";}s:7:"storage";a:6:{s:3:"key";s:28:"galeria-zdjec/hot16challange";s:11:"storage_key";s:34:"03.galeria-zdjec/01.hot16challange";s:8:"template";s:4:"item";s:17:"storage_timestamp";i:1643805772;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"item";i:1643805772;}}s:8:"checksum";s:32:"39ef72eeb2047842e82ec18d2092ce4e";}}

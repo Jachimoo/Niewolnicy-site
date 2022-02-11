@@ -1,0 +1,4 @@
+1643832318
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:5:"o-nas";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:2:{s:5:"title";s:5:"O nas";s:7:"content";a:1:{s:5:"items";s:13:"@self.modular";}}s:11:"frontmatter";s:50:"title: 'O nas'
+content:
+    items: '@self.modular'";s:8:"markdown";s:0:"";}s:7:"storage";a:7:{s:3:"key";s:5:"o-nas";s:11:"storage_key";s:8:"02.o-nas";s:8:"template";s:7:"modular";s:17:"storage_timestamp";i:1643831718;s:8:"markdown";a:1:{s:0:"";a:1:{s:7:"modular";i:1643805733;}}s:8:"children";a:8:{s:6:"_1main";b:0;s:10:"_1text-ewa";b:0;s:12:"_2text-jerzy";b:0;s:11:"_3text-opal";b:0;s:13:"_4text-bartek";b:0;s:11:"_5text-kuba";b:0;s:14:"_6text-gabriel";b:0;s:7:"_reszta";b:0;}s:8:"checksum";s:32:"aba5fd0b61800b453757c6adbf4ef030";}}

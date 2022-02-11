@@ -1,0 +1,19 @@
+1643881416
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:13:"o-nas/_reszta";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:3:{s:5:"title";s:6:"Reszta";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:4:"left";}s:11:"frontmatter";s:53:"title: Reszta
+body_classes: modular
+image_align: left";s:8:"markdown";s:1244:"Oraz na koniec chcielibyśmy podziękować wszystkim którzy kiedykolwiek wspomogli nas w naszych artystycznych marzeniach:
+
+*  Kacper Błoński - pierwszy gitarzysta i drugi basista zespołu (2017-2021)
+*  Dominika Jagielska – teksty
+*  Szymon Kucharski - projekt logo z pięścią i łańcuchem oraz napisu
+*  Dom Kultury Lokator – patron zespołu, tu mamy próby :)
+* Wiktoria Padok – pierwsza wokalistka zespołu, zaśpiewała w piosence Jest na płycie SAM na SAM oraz kolędzie Jest na świecie (2017-2019)
+* Miłosz Padzik - pierwszy basista zespołu (2017-2019)
+* Repliqmedia - produkcja Audio CD i druk okładek płyty SAM na SAM
+* Tomasz Pohl – teksty
+* [Sosna Studio](https://www.facebook.com/Sosna-Studio-studio-nagrań-dźwiekowych-206808239414329) - tu nagrywaliśmy materiał na płytę SAM na SAM
+* Marcin Sosnowski SosnaStudio - miks i mastering płyty SAM na SAM
+* Maciej Stawski [INTRO 3D](https://www.facebook.com/groups/2860148690730722) - teledysk do kolędy Jest na świecie
+* Tomasz Suchański - zdjęcia, layout oraz skład okładki płyty
+
+Oraz wszystkim wiernym fanom za obecność na naszych koncertach i wsparcie mentalne. Bez waszego wsparcia nie udałoby nam się osiągnąć żadnego z naszych celów :) ";}s:7:"storage";a:8:{s:3:"key";s:13:"o-nas/_reszta";s:11:"storage_key";s:24:"02.o-nas/_reszta|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643833111;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643833111;}}s:8:"checksum";s:32:"47b823b2901343edad8305281a345f2c";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}

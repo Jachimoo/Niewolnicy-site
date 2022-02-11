@@ -1,0 +1,55 @@
+1644079291
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:29:"strona-glowna/_aktualny-sklad";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:33:"Aktualny skład i pierwsza płyta";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:4:"left";s:11:"media_order";s:51:"240908085_163201039281867_4082836036035394392_n.jpg";}s:11:"frontmatter";s:147:"title: 'Aktualny skład i pierwsza płyta'
+body_classes: modular
+image_align: left
+media_order: 240908085_163201039281867_4082836036035394392_n.jpg";s:8:"markdown";s:1547:"<div class="mytext">
+    <h2>Aktualny skład i pierwsza płyta</h2>
+    <div>Aktualna forma zespołu została ukształtowana po wielu zmianach składu i na chwilę obecną tworzą go:</div>
+    <ul>
+     <li>Ewa Agaś - Lange - wokal </li>
+     <li>Bartek Kiebała - instrumenty klawiszowe</li>
+     <li>Jakub Kiebała - gitara elektryczna</li>
+     <li>Kacper Opaliński &ndash; perkusja</li>
+    <li>Gabriel Schmidt-Jensen - gitara basowa&nbsp;</li>
+    <li>Jerzy Sowa jr - gitara elektryczna, wokal</li>
+    </ul>
+  <div>21 marca 2020 r. zesp&oacute;ł wydał pierwszą płytę &bdquo;SAM na SAM&rdquo; a obecnie pracuje nad materiałem do kolejnego wydawnictwa.</div>
+</div>
+<style>
+    .mytext{
+        margin-top: -20px;
+        font-size: 20px;
+        margin-left: -10%;
+    }
+    .foto img{
+        box-shadow: rgba(0, 0, 0, 0.452) 0px 15px 25px, rgba(0, 0, 0, 0.151) 0px 5px 10px;
+        border:  #35393D 1px solid;
+        border-radius: 5px;
+        max-height: 85%;
+        max-width: auto;
+    }
+    section.section.modular-text.bg-gray{
+        padding-bottom: 0;
+    }
+    @media screen and (max-width:940px) {
+        .mytext{
+        margin-left: 0%;
+        }
+    }
+    @media screen and (max-width:940px) {
+        .mytext{
+        margin-left: 0%;
+        }
+    }
+    @media screen and (max-width:1080px) {
+        .mytext , .mytext2{
+        font-size: 0.9em;
+        }
+    }
+    @media screen and (max-width:840px) {
+        .mytext , .mytext2{
+        font-size: 20px;
+        text-align: justify;
+        }
+    }
+</style>";}s:7:"storage";a:8:{s:3:"key";s:29:"strona-glowna/_aktualny-sklad";s:11:"storage_key";s:38:"01.strona-glowna/_aktualny-sklad|text.";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1644078691;s:8:"markdown";a:1:{s:0:"";a:1:{s:4:"text";i:1644078691;}}s:8:"checksum";s:32:"3ae703c12b86c64379e05bea8190696f";s:6:"exists";b:1;s:4:"lang";s:0:"";}}

@@ -1,0 +1,29 @@
+1643889556
+O:39:"Grav\Common\Flex\Types\Pages\PageObject":4:{s:4:"type";s:5:"pages";s:3:"key";s:23:"dyskografia/_sam-na-sam";s:8:"elements";a:4:{s:4:"root";b:0;s:6:"header";a:4:{s:5:"title";s:10:"Sam na sam";s:12:"body_classes";s:7:"modular";s:11:"image_align";s:4:"left";s:11:"media_order";s:10:"przód.png";}s:11:"frontmatter";s:83:"title: 'Sam na sam'
+body_classes: modular
+image_align: left
+media_order: przód.png";s:8:"markdown";s:549:"## Sam Na Sam - 2020
+21 marca 2020 r. Wydaliśmy naszą pierwszą płytę w skład w której wchodzą następujące utwory:
+	1. Czasem mam chęć..
+	2. Dałeś mi tylko ciszę
+	3. Ja miasto
+	4. Moja pieśń
+	5. Nie będę
+	6. Nie dotykaj mnie
+	7. Nowy świt
+	8. Spokojnie
+	9. Wiatr
+	10. Szare samochody
+	11. Jest
+
+<style>
+	h2{
+		margin-top: 0;
+		padding-right: -2%
+	}
+	.foto img{
+        box-shadow: rgba(0, 0, 0, 0.452) 0px 15px 25px, rgba(0, 0, 0, 0.151) 0px 5px 10px;
+        border:  #35393D 1px solid;
+        border-radius: 5px;
+    }
+</style>";}s:7:"storage";a:8:{s:3:"key";s:23:"dyskografia/_sam-na-sam";s:11:"storage_key";s:34:"04.dyskografia/_sam-na-sam|text.pl";s:8:"template";s:4:"text";s:17:"storage_timestamp";i:1643805776;s:8:"markdown";a:1:{s:2:"pl";a:1:{s:4:"text";i:1643805776;}}s:8:"checksum";s:32:"ab92ee279b9bef7a14929e7298a51943";s:6:"exists";b:1;s:4:"lang";s:2:"pl";}}
