@@ -21,6 +21,7 @@ Languages:
 - HTML
 - CSS
 - SASS
+- JS
 - PHP (Twig)
 
 Libaries:
