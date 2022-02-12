@@ -14,7 +14,14 @@ Site is builded using [GRAV](https://getgrav.org). I choose this one because at 
 ![Image](https://i.imgur.com/ZfcU5Ci.png)
 
 # Technologies used
+
 List of libaries/Frameworks I used:
+Languages:
+- HTML
+- CSS
+- SASS
+- PHP (Twig)
+Libaries
 - [jquery](https://jquery.com) - General purpose JS Libary
 - [Spectre](https://picturepan2.github.io/spectre/index.html) - Lightweight CSS Framework
 - [AOS](https://michalsnik.github.io/aos/) - Animate on scroll JS libary
